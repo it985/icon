@@ -29,10 +29,7 @@ Clone the repository and install dependencies:
 
 ```sh
 # Clone the repository
-git clone https://github.com/zhangyu1818/appicon-forge.git
-
-# Navigate to the directory
-cd appicon-forge
+git clone 
 
 # Install dependencies
 pnpm install
@@ -44,7 +41,7 @@ Start the development server:
 pnpm dev
 ```
 
-Visit `http://localhost:5173/appicon-forge/` in your browser to start using AppIcon Forge.
+Visit `http://localhost:5173` in your browser to start using AppIcon Forge.
 
 ## Deployment
 
